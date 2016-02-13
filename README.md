@@ -7,5 +7,5 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
 * Tarea 2: Glosario de comandos de VIM
     * El glosario deberá contener los principales comandos de uso en VIM y una descripción de estos.
     * Deberán estar escritos en un archivo markdown para su fácil visualización en github.
-* Tarea 3 escribir un código en bash que copie un archivo dado via `argc` al directorio `$HOME`
+* Tarea 3: escribir un código en bash que copie un archivo dado via `argc` al directorio `$HOME`
 
