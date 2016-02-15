@@ -8,4 +8,5 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
     * El glosario deberá contener los principales comandos de uso en VIM y una descripción de estos.
     * Deberán estar escritos en un archivo markdown para su fácil visualización en github.
 * Tarea 3: escribir un código en bash que copie un archivo dado via `argc` al directorio `$HOME`
-
+* Tarea 4: Investigar en que consiste el event loop de node.js
+* Tarea 5: Hacer los 19 ejercicios de javascripting de la node school **(Fecha de entrega 22)**
