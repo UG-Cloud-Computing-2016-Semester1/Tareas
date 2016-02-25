@@ -13,3 +13,4 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
 * Tarea 5.2: Invertigar las diferencias de `git reset --mixed` y `git reset --soft` **(Fecha de entrega 29 de febrero)**
 * Tarea 6: Hacer los ejercicios de Scope Chains & Closures de la node school **(Fecha de entrega 29 de febrero)**
 * Tarea 7: Hacer los ejercicios de learnyounode de la node school **(Fecha de entrega 3 de marzo)**
+* Tarea 8: Diseñar un sitio personal **(Fecha de entrega 3 de marzo (Enviar a github))**
