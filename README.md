@@ -14,4 +14,6 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
 * Tarea 6: Hacer los ejercicios de Scope Chains & Closures de la node school **(Fecha de entrega 29 de febrero)**
 * Tarea 7: Hacer los ejercicios de learnyounode de la node school **(Fecha de entrega 3 de marzo)**
 * Tarea 8: Diseñar un sitio personal **(Fecha de entrega 3 de marzo (Enviar a github))**
-* Tarea 9: Investigar que es apache y que es nginx y cuales son sus diferencias
+* Tarea 9: Investigar que es apache y que es nginx y cuales son sus diferencias **(Fecha de entrega 17 de marzo)**
+* Tarea 10: Instalar wordpress en un servidor de EC2 utilizando nginx **(Fecha de entrega 17 de marzo)**
+https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-nginx-on-ubuntu-14-04
