@@ -19,3 +19,4 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
 https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-nginx-on-ubuntu-14-04
 * Tarea 11: Completar TODOS los ejercicios de learnyournode **(Fecha de entrega 14 de abril)**
 https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-nginx-on-ubuntu-14-04
+* Tarea 12: **Tramitar el dominio en digital ocean usando su cuenta de github pack** **(Fecha de entrega 11 de abril)**
