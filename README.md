@@ -18,7 +18,8 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
 * Tarea 10: Instalar wordpress en un servidor de EC2 utilizando nginx **(Fecha de entrega 17 de marzo)**
 https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-nginx-on-ubuntu-14-04
 * Tarea 11: Completar TODOS los ejercicios de learnyournode **(Fecha de entrega 14 de abril)**
-https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-nginx-on-ubuntu-14-04
 * Tarea 12: **Tramitar el dominio en namecheap usando su cuenta de github pack** **(Fecha de entrega 11 de abril)**
 * Tarea 13: Hacer un programa en Node.js que suba archivos a un bucket de S3 **(Fecha de entrega 18 de abril)**
-* Tarea 14: Investigar ques es un ORM y un ODM **(Fecha de entrega 11 de abril)**
+* Tarea 14: Investigar que es un ORM y un ODM **(Fecha de entrega 11 de abril)**
+* Tarea 15: Investigar que es una API y un Framework **(Fecha de entrega 14 de abril)**
+
