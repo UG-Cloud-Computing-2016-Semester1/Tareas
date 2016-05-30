@@ -22,4 +22,5 @@ https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-n
 * Tarea 13: Hacer un programa en Node.js que suba archivos a un bucket de S3 **(Fecha de entrega 18 de abril)**
 * Tarea 14: Investigar que es un ORM y un ODM **(Fecha de entrega 11 de abril)**
 * Tarea 15: Investigar que es una API y un Framework **(Fecha de entrega 14 de abril)**
+* Tarea 16: Realizar una traducción de http://martinfowler.com/articles/microservices.html **(Fecha de entrega 4 de Junio)**
 
